@@ -1,0 +1,748 @@
+=head2 Wed Apr 22 12:14:30 2015: C<Module> L<SQL::Abstract|SQL::Abstract>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.81>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:14:32 2015: C<Module> L<Class::C3::Componentised|Class::C3::Componentised>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:14:39 2015: C<Module> L<Variable::Magic|Variable::Magic>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.57>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:14:48 2015: C<Module> L<Class::XSAccessor|Class::XSAccessor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:14:59 2015: C<Module> L<Config::Any|Config::Any>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:15:09 2015: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:15:12 2015: C<Module> L<Scope::Guard|Scope::Guard>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:15:14 2015: C<Module> L<Data::Dumper::Concise|Data::Dumper::Concise>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.022>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:15:16 2015: C<Module> L<Module::Find|Module::Find>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:15:19 2015: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:46 2015: C<Module> L<SQL::Abstract|SQL::Abstract>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.81>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:46 2015: C<Module> L<Class::C3::Componentised|Class::C3::Componentised>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:48 2015: C<Module> L<Variable::Magic|Variable::Magic>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.57>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:49 2015: C<Module> L<B::Hooks::EndOfScope|B::Hooks::EndOfScope>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:50 2015: C<Module> L<namespace::clean|namespace::clean>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:51 2015: C<Module> L<Class::XSAccessor|Class::XSAccessor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:53 2015: C<Module> L<Class::Accessor::Grouped|Class::Accessor::Grouped>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10012>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:53 2015: C<Module> L<Config::Any|Config::Any>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:53 2015: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:54 2015: C<Module> L<Context::Preserve|Context::Preserve>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:54 2015: C<Module> L<Scope::Guard|Scope::Guard>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:55 2015: C<Module> L<Data::Dumper::Concise|Data::Dumper::Concise>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.022>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:55 2015: C<Module> L<Module::Find|Module::Find>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:56 2015: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:57 2015: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:16:59 2015: C<Module> L<Role::Tiny|Role::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.000000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:17:04 2015: C<Module> L<Moo|Moo>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.000001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:17:49 2015: C<Module> L<DBIx::Class|DBIx::Class>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.082820>
+
+=item *
+
+C<EXE_FILES: script/dbicadmin>
+
+=back
+
+=head2 Wed Apr 22 12:30:07 2015: C<Module> L<Package::Variant|Package::Variant>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.002002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:30:12 2015: C<Module> L<File::ShareDir::Install|File::ShareDir::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:30:14 2015: C<Module> L<File::ShareDir|File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.102>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:31:16 2015: C<Module> L<SQL::Translator|SQL::Translator>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11021>
+
+=item *
+
+C<EXE_FILES: script/sqlt-diagram script/sqlt-diff script/sqlt-diff-old script/sqlt-dumper script/sqlt-graph script/sqlt>
+
+=back
+
+=head2 Wed Apr 22 12:31:19 2015: C<Module> L<DBICx::TestDatabase|DBICx::TestDatabase>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr 22 12:31:28 2015: C<Module> L<DBIx::Class::Tree::NestedSet|DBIx::Class::Tree::NestedSet>
+
+=over 4
+
+=item *
+
+C<installed into: /home/peu/perl_modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
